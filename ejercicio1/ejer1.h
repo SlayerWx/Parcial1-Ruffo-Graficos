@@ -1,0 +1,2 @@
+float diferencia();
+void mostrarCreditos();
